@@ -1,0 +1,9 @@
+
+Django==3.2.7
+djangorestframework==3.12.3 
+django-cors-headers 
+numpy  
+pandas 
+scikit-learn 
+pickle4 
+requests
