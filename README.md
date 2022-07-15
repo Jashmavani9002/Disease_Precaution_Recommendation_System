@@ -41,10 +41,10 @@ https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset
  
  <p>
     <h3>Training</h3>
-    <img src='assets/UI.PNG'>
+    <img src='data/training.PNG'>
     <br>
     <br>
     <h3>Prediction</h3>
-    <img src='assets/UI1.PNG'>
+    <img src='data/prediction.PNG'>
 </p>	
 
