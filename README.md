@@ -4,9 +4,9 @@ This project predict top 5 disease based on symptoms and recommend precaution re
 
 # Project Directory
 
-* /data/&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: All data files.
+* /data/&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: All data files.
 * /models/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Trained model save in this dir.
-* /training/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Traininig model api.
+* /training/&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Traininig model api.
 * /prediction/&nbsp;: Prediction api.
 
 
