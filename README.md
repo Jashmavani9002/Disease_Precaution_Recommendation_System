@@ -32,7 +32,7 @@ https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset
 ```
  
  <p>
-    <h3>Training</h3>
+    <h1>Training</h1>
     <img src='assets/UI.PNG'>
     <br>
     <br>
