@@ -30,4 +30,12 @@ scripts.
  ```bash
 https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset
 ```
+ 
+ <p>
+    ###Training
+    <img src='assets/UI.PNG'>
+    <br>
+    <br>
+    <img src='assets/UI1.PNG'>
+</p>	
 
