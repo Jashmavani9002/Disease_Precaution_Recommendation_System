@@ -25,4 +25,9 @@ pip install -r requirements.txt
 <b>Note</b>: To run the above commands , the python environment should be equipped with pip/pip3
 scripts.
 
+ ## Dataset
+ 
+ ```bash
+https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset
+```
 
