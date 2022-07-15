@@ -1,5 +1,5 @@
 # Disease_Precaution_Recommendation
-Using django and djangorestframework.
+Using django and djangorestframework.<br />
 This project predict top 5 disease based on symptoms and recommend precaution related to disease.
 
 # Packages
