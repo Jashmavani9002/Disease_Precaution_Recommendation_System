@@ -18,7 +18,7 @@ This project predict top 5 disease based on symptoms and recommend precaution re
 ```bash 
 $pip install -r requirements.txt
 ```
-<b>Alternate command :</b> pip3 install -r requirements.txt\
+<b>Alternate command :```bash  pip3 install -r requirements.txt ```
 <b>Note</b>: To run the above commands , the python environment should be equipped with pip/pip3
 scripts.
 
